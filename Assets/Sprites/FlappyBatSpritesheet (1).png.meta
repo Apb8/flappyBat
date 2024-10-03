@@ -1,0 +1,1874 @@
+fileFormatVersion: 2
+guid: dbba8a4b48f994e4d8cc56cc35e3677f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2014
+        width: 129
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0799dada1044804e98b22f012fcff62
+      internalID: 980386609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 2014
+        width: 113
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddd34ed918ec364c99a7dba4ded2487
+      internalID: 129530262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 782
+        width: 721
+        height: 1283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27aee3f526498ed4990435d599010ef2
+      internalID: -1341647676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 1234
+        width: 167
+        height: 833
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83c145adbe59384f95ff488c9c4d3ca
+      internalID: -949398515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_4
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1221
+        width: 167
+        height: 830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b504a665ebba1349806b78da0e0ce55
+      internalID: 1228672247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_5
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1815
+        width: 705
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab617f7153e91d148a58d671077e91ca
+      internalID: 695845863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_6
+      rect:
+        serializedVersion: 2
+        x: 2573
+        y: 2005
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6472b7ffad2bc554db0c8d80cdc355fa
+      internalID: 162874873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_7
+      rect:
+        serializedVersion: 2
+        x: 3173
+        y: 2049
+        width: 60
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc5af7319b5b2643b36b36d7fd75269
+      internalID: -2023506936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_8
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 1968
+        width: 135
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723c7701169b6ad41bd987617386cb8d
+      internalID: 737342256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_9
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 1369
+        width: 113
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6806b02798ead1c429fa33df48a63197
+      internalID: 398947057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_10
+      rect:
+        serializedVersion: 2
+        x: 2786
+        y: 1369
+        width: 114
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40005445201da5c418844e7e13a20866
+      internalID: -119147134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_11
+      rect:
+        serializedVersion: 2
+        x: 2902
+        y: 1369
+        width: 114
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773fe19dee12a6e489f3e69bfddbda3f
+      internalID: 85556410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_12
+      rect:
+        serializedVersion: 2
+        x: 3018
+        y: 1369
+        width: 114
+        height: 673
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3167ab844ae2d4946ba8a9fad0ec325a
+      internalID: 150133760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_13
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 1961
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279ef6f919642d04db0ad18d0f36aea2
+      internalID: 2069748938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_14
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 2007
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bc2dd00699d0e4a88b3988c7774688
+      internalID: -1139255768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_15
+      rect:
+        serializedVersion: 2
+        x: 2573
+        y: 1956
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4674c7c845ad04e95e9e66e1011084
+      internalID: -1651106816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_16
+      rect:
+        serializedVersion: 2
+        x: 3257
+        y: 1970
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703235d5164769d45a1667bfcf54ab43
+      internalID: 1353050263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_17
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 1949
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab2136d8b1ae194895487add14a4705
+      internalID: -340626593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_18
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 1881
+        width: 173
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5797fe0c845faa45a46cd96ac43ddae
+      internalID: -1181532876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_19
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 1898
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bb0d1caeba6374a988b4aef9534022
+      internalID: -368939293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_20
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 1852
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599c14261746d074896325e2bd6069a5
+      internalID: -893515069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_21
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1898
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a96490c4a06644a91d94af785070a4
+      internalID: 1524541862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_22
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 1815
+        width: 173
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d412e417a856f77418eb810bcfdec9f9
+      internalID: 638888754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_23
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 1831
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62ab9dfbff74884e97a4bafbaa9520c
+      internalID: -1862293905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_24
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1861
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ed37c447301c443810461c6fc8d970
+      internalID: -2099703833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_25
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 1837
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76620f3999746be409baaa0722ffb8f3
+      internalID: -1908079360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_26
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 1715
+        width: 139
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa983d65983aee45931635758f8205f
+      internalID: 1706751738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_27
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 1698
+        width: 246
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d281a18f852dfc64a8f5d68d12550bff
+      internalID: 1415358410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_28
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 1715
+        width: 211
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a3ab890a4e36546bb4ee4cf8041da2
+      internalID: -414605860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_29
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 1715
+        width: 181
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5cbd3bcc348d1499f3b04ff63e25ec
+      internalID: 1045654822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_30
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 1722
+        width: 56
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1867e9be72cab41955eaafa1a39a71
+      internalID: 892691049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_31
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 1745
+        width: 78
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a42f18252a47a40b7b198d4b80862c
+      internalID: -1711011268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_32
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1791
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aaebe9cc0ca4ba41aff9f094ec09a4a
+      internalID: -1231228090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_33
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1752
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce129212c234cba42af580be1cc75615
+      internalID: -330598069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_34
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1724
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3b076474b6b634985b4474489be304
+      internalID: -381780305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_35
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 1677
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a90bf19a129115419fec841e0ef7330
+      internalID: -1036369025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_36
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 1636
+        width: 78
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d6565b94957514f9d295f3a03205f6
+      internalID: 1674855631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_37
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1682
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbe97819896eae459b659a7a6341d54
+      internalID: 228743195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_38
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 1603
+        width: 84
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd407a206aa10645b90bef556f80f18
+      internalID: 1152126591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_39
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 1569
+        width: 376
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886a5b51841773343b580bac62a938b6
+      internalID: -1306719791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_40
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 1643
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cd9d22519f4864cac92a8169587164
+      internalID: 182198952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_41
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 1643
+        width: 109
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23925b5d9d348c7478a07b47721cc89f
+      internalID: -665779113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_42
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 1643
+        width: 77
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4dd4bd367935154187f91cf73a95ef9
+      internalID: -307841657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_43
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1645
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc213528bdbb5d42936ccfa3cd8ad37
+      internalID: -1192853823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_44
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 1561
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bf9028416053049b0225c6aa97c739
+      internalID: 2110805481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_45
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 1527
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c4fea356815a340a21eb2f69a9ed45
+      internalID: 1330025171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_46
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1573
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600044177c8f12f4b9033341f12c85a9
+      internalID: -1333273591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_47
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1494
+        width: 93
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80adee86e03662246bba43a24775c8f9
+      internalID: -956415796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_48
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 1524
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9bdd4c5b0511c469fde8a06b1a8818
+      internalID: -1707762416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_49
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 1464
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79329e3a7e01414ebefde42866aa300
+      internalID: 1573677672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_50
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 1527
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6da5d32e1279f5479d6daa7e96dc95a
+      internalID: 28053288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_51
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 1494
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6817fe2a35f69a4e996e5de0da19d4c
+      internalID: -622142765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_52
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 1436
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af00cc3cad987fa4a9a838d34630db84
+      internalID: -222733874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_53
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 1436
+        width: 223
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee09c8227dda75b47b3401225d4209d4
+      internalID: 829305703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_54
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1536
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d57aabb9613ac4499a629f9e5bc893d
+      internalID: -1703908097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_55
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1397
+        width: 172
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834f5abb04b42174eb529a4d78ed880d
+      internalID: -662934327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_56
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1397
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f7fe20f4330aa4aaec755895d2542e
+      internalID: -138799518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_57
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 1402
+        width: 97
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2a2b83816b4bf44bab0102c579b23a
+      internalID: 1081857851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_58
+      rect:
+        serializedVersion: 2
+        x: 3236
+        y: 1411
+        width: 39
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac46139e38d40be45b619d67e0c0a53b
+      internalID: 1303975318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_59
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1306
+        width: 56
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fba877ecf3ae9f419fd90c846b4f5c2
+      internalID: -1948317689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_60
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1306
+        width: 56
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebc76fc4e7e4b549ac2bd23e01dd5a3
+      internalID: -2063042093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_61
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 1306
+        width: 56
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c5e3ee81a25c446a052ac99db1f3f6
+      internalID: 1037753570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_62
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1306
+        width: 56
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aec47c2697979f4c8cc2dfdd114f405
+      internalID: -1877823034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_63
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 1302
+        width: 97
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dd39507dec06e4ca5bb1a6f2d967b6
+      internalID: -1961237449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_64
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 1353
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a612b1b4478318419152f6f039707b1
+      internalID: 1463884401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_65
+      rect:
+        serializedVersion: 2
+        x: 2682
+        y: 1286
+        width: 76
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0acfc330d207a045bbd0f10c85b8907
+      internalID: 446157474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_66
+      rect:
+        serializedVersion: 2
+        x: 2798
+        y: 1286
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8565538fdd7aba64ca3d40e9f7a14b6a
+      internalID: -1334407146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_67
+      rect:
+        serializedVersion: 2
+        x: 2914
+        y: 1286
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e6000104fc0ae43a40c5f2dcbee7c6
+      internalID: 2040809155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_68
+      rect:
+        serializedVersion: 2
+        x: 3032
+        y: 1286
+        width: 76
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8ab98bfb4a9a643a335676aed95cfe
+      internalID: 951797939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_69
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1302
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfa1997b6c76d04092fb744fb49d701
+      internalID: 629860326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_70
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1206
+        width: 56
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1bed29cd33bb34e873c2c77aa422a4
+      internalID: 696325455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_71
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1206
+        width: 56
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436e2173f3e43fa468e14dc577697b60
+      internalID: 298230002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_72
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 1206
+        width: 56
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae846f5da70026419ed1983f91e7e8a
+      internalID: 582775390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_73
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1206
+        width: 56
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c723e2817f811f042a6143667d09a69c
+      internalID: -212117010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_74
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 1265
+        width: 72
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0993a2890ae9ade44935c305e939ea7b
+      internalID: 1274666186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_75
+      rect:
+        serializedVersion: 2
+        x: 3215
+        y: 1253
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d48373e321dbf54c8c97b6e0be2f6c8
+      internalID: -152562233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_76
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 598
+        width: 342
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb508f38f473b8c4d86955c2e8948e98
+      internalID: -1956902804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_77
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 598
+        width: 174
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51200578d04bb5489fecad2d1163cd2
+      internalID: 774360463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_78
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 114
+        width: 604
+        height: 1071
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3386ec0b2d6aa7d429adbc17a625c1b1
+      internalID: -789589219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlappyBatSpritesheet (1)_79
+      rect:
+        serializedVersion: 2
+        x: 2895
+        y: 114
+        width: 607
+        height: 1071
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbc26413c09a7e4694642663810fea6
+      internalID: 1515213205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FlappyBatSpritesheet (1)_0: 980386609
+      FlappyBatSpritesheet (1)_1: 129530262
+      FlappyBatSpritesheet (1)_10: -119147134
+      FlappyBatSpritesheet (1)_11: 85556410
+      FlappyBatSpritesheet (1)_12: 150133760
+      FlappyBatSpritesheet (1)_13: 2069748938
+      FlappyBatSpritesheet (1)_14: -1139255768
+      FlappyBatSpritesheet (1)_15: -1651106816
+      FlappyBatSpritesheet (1)_16: 1353050263
+      FlappyBatSpritesheet (1)_17: -340626593
+      FlappyBatSpritesheet (1)_18: -1181532876
+      FlappyBatSpritesheet (1)_19: -368939293
+      FlappyBatSpritesheet (1)_2: -1341647676
+      FlappyBatSpritesheet (1)_20: -893515069
+      FlappyBatSpritesheet (1)_21: 1524541862
+      FlappyBatSpritesheet (1)_22: 638888754
+      FlappyBatSpritesheet (1)_23: -1862293905
+      FlappyBatSpritesheet (1)_24: -2099703833
+      FlappyBatSpritesheet (1)_25: -1908079360
+      FlappyBatSpritesheet (1)_26: 1706751738
+      FlappyBatSpritesheet (1)_27: 1415358410
+      FlappyBatSpritesheet (1)_28: -414605860
+      FlappyBatSpritesheet (1)_29: 1045654822
+      FlappyBatSpritesheet (1)_3: -949398515
+      FlappyBatSpritesheet (1)_30: 892691049
+      FlappyBatSpritesheet (1)_31: -1711011268
+      FlappyBatSpritesheet (1)_32: -1231228090
+      FlappyBatSpritesheet (1)_33: -330598069
+      FlappyBatSpritesheet (1)_34: -381780305
+      FlappyBatSpritesheet (1)_35: -1036369025
+      FlappyBatSpritesheet (1)_36: 1674855631
+      FlappyBatSpritesheet (1)_37: 228743195
+      FlappyBatSpritesheet (1)_38: 1152126591
+      FlappyBatSpritesheet (1)_39: -1306719791
+      FlappyBatSpritesheet (1)_4: 1228672247
+      FlappyBatSpritesheet (1)_40: 182198952
+      FlappyBatSpritesheet (1)_41: -665779113
+      FlappyBatSpritesheet (1)_42: -307841657
+      FlappyBatSpritesheet (1)_43: -1192853823
+      FlappyBatSpritesheet (1)_44: 2110805481
+      FlappyBatSpritesheet (1)_45: 1330025171
+      FlappyBatSpritesheet (1)_46: -1333273591
+      FlappyBatSpritesheet (1)_47: -956415796
+      FlappyBatSpritesheet (1)_48: -1707762416
+      FlappyBatSpritesheet (1)_49: 1573677672
+      FlappyBatSpritesheet (1)_5: 695845863
+      FlappyBatSpritesheet (1)_50: 28053288
+      FlappyBatSpritesheet (1)_51: -622142765
+      FlappyBatSpritesheet (1)_52: -222733874
+      FlappyBatSpritesheet (1)_53: 829305703
+      FlappyBatSpritesheet (1)_54: -1703908097
+      FlappyBatSpritesheet (1)_55: -662934327
+      FlappyBatSpritesheet (1)_56: -138799518
+      FlappyBatSpritesheet (1)_57: 1081857851
+      FlappyBatSpritesheet (1)_58: 1303975318
+      FlappyBatSpritesheet (1)_59: -1948317689
+      FlappyBatSpritesheet (1)_6: 162874873
+      FlappyBatSpritesheet (1)_60: -2063042093
+      FlappyBatSpritesheet (1)_61: 1037753570
+      FlappyBatSpritesheet (1)_62: -1877823034
+      FlappyBatSpritesheet (1)_63: -1961237449
+      FlappyBatSpritesheet (1)_64: 1463884401
+      FlappyBatSpritesheet (1)_65: 446157474
+      FlappyBatSpritesheet (1)_66: -1334407146
+      FlappyBatSpritesheet (1)_67: 2040809155
+      FlappyBatSpritesheet (1)_68: 951797939
+      FlappyBatSpritesheet (1)_69: 629860326
+      FlappyBatSpritesheet (1)_7: -2023506936
+      FlappyBatSpritesheet (1)_70: 696325455
+      FlappyBatSpritesheet (1)_71: 298230002
+      FlappyBatSpritesheet (1)_72: 582775390
+      FlappyBatSpritesheet (1)_73: -212117010
+      FlappyBatSpritesheet (1)_74: 1274666186
+      FlappyBatSpritesheet (1)_75: -152562233
+      FlappyBatSpritesheet (1)_76: -1956902804
+      FlappyBatSpritesheet (1)_77: 774360463
+      FlappyBatSpritesheet (1)_78: -789589219
+      FlappyBatSpritesheet (1)_79: 1515213205
+      FlappyBatSpritesheet (1)_8: 737342256
+      FlappyBatSpritesheet (1)_9: 398947057
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

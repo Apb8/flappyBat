@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 2396469553233627109}
   - component: {fileID: 5128005714945799758}
   - component: {fileID: 7458138974858155091}
+  - component: {fileID: 2296363692904521416}
   m_Layer: 0
   m_Name: PipeStonePrefab
   m_TagString: Untagged
@@ -93,6 +94,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.22807932, y: 2.4427934}
   m_EdgeRadius: 0
+--- !u!114 &2296363692904521416
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1416657134334886952}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b79045e5dd1d0d44a652615faeeaf35, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &6664728648339669982
 GameObject:
   m_ObjectHideFlags: 0

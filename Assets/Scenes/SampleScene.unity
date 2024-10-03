@@ -372,7 +372,7 @@ GameObject:
   - component: {fileID: 182204592}
   - component: {fileID: 182204591}
   m_Layer: 5
-  m_Name: MejorScore
+  m_Name: BestScore
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -859,7 +859,7 @@ GameObject:
   - component: {fileID: 674858459}
   - component: {fileID: 674858458}
   m_Layer: 5
-  m_Name: PuntuacionActual
+  m_Name: CurrentScore
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -995,6 +995,7 @@ GameObject:
   - component: {fileID: 1137572100}
   - component: {fileID: 1137572099}
   - component: {fileID: 1137572098}
+  - component: {fileID: 1137572102}
   m_Layer: 5
   m_Name: ScoreCanvas
   m_TagString: Untagged
@@ -1088,6 +1089,20 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!114 &1137572102
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1137572097}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3dc763cfa4a28c24a99af482e15c1e71, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _currentScoreText: {fileID: 674858458}
+  _highScoreText: {fileID: 182204591}
 --- !u!1 &1137925306
 GameObject:
   m_ObjectHideFlags: 0
@@ -1104,7 +1119,7 @@ GameObject:
   - component: {fileID: 1137925312}
   m_Layer: 0
   m_Name: Flappy
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1634,6 +1649,58 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _speed: 3
   _width: 50
+--- !u!1 &1398598712
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1398598714}
+  - component: {fileID: 1398598713}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1398598713
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1398598712}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd1f84c9fbc610b47a860b1fa611df5f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  musicSounds:
+  - name: Cancion
+    clip: {fileID: 8300000, guid: f656835246177ef4398362982146a3be, type: 3}
+  sfxSounds:
+  - name: Jump
+    clip: {fileID: 8300000, guid: bc10140ae0babfa48a18d19303049fbf, type: 3}
+  musicSource: {fileID: 0}
+  sfxSource: {fileID: 0}
+--- !u!4 &1398598714
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1398598712}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.2100638, y: -0.48501027, z: 0.030812616}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1455249074
 GameObject:
   m_ObjectHideFlags: 0
@@ -1835,3 +1902,4 @@ SceneRoots:
   - {fileID: 1500686975}
   - {fileID: 2112961920}
   - {fileID: 1137572101}
+  - {fileID: 1398598714}

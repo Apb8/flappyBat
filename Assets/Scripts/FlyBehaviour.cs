@@ -8,6 +8,8 @@ public class FlyBehaviour : MonoBehaviour
     [SerializeField] private float _velocity = 1.5f;
     [SerializeField] private float _rotationSpeed = 10f;
 
+    public AudioSource  audioPlayer;
+
     private Rigidbody2D _rb;
     // Start is called before the first frame update
     private void Start()
@@ -28,10 +30,8 @@ public class FlyBehaviour : MonoBehaviour
         transform.rotation = Quaternion.Euler(0, 0, _rb.velocity.y * _rotationSpeed);
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
+    public void OnCollisionEnter2D(Collision2D collision)
     {
         GameManager.instance.GameOver();
-        
-
     }
 }

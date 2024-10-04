@@ -4,16 +4,9 @@ using UnityEngine;
 
 public class DeathSound : MonoBehaviour
 {
-    [SerializeField] private AudioClip _deathSound;
-    private AudioSource _audioSource;
 
-    private void Start()
+    void Update()
     {
-        _audioSource = GetComponent<AudioSource>();
-    }
-
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        _audioSource.PlayOneShot(_deathSound);
+        
     }
 }

@@ -2,11 +2,18 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class DeathSound : MonoBehaviour
+public class CollisionSound : MonoBehaviour
 {
+    private AudioSource _audioSource;
 
-    void Update()
+    private void Start()
     {
-        
+        _audioSource = GetComponent<AudioSource>();
     }
+
+    private void OnCollisionEnter(Collision collision)
+    { 
+        _audioSource.Play();
+    }
+
 }

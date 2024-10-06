@@ -4,10 +4,12 @@ using UnityEngine;
 
 public class PipeIncreaseScore : MonoBehaviour
 {
+    private  AudioSource _audioSource;
 
-    public AudioSource _audioSource;
-    
-    
+    private void Start()
+    {
+        _audioSource = GetComponent<AudioSource>();
+    }
         private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.CompareTag("Player"))
